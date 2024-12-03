@@ -1,0 +1,2102 @@
+[
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 1108\n ",
+        "constellation":"\n  \u0411\u043b\u0438\u0437\u043d\u0435\u0446\u044b\n ",
+        "spectral-class":"\n  O1Z\n ",
+        "radius":268039266.0,
+        "rotation":"\n  636.6 days\n ",
+        "age":"\n  3.07 billion years\n ",
+        "distance":5916294.5499999998,
+        "absolute-magnitude":5.12
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 1624\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  C2S\n ",
+        "radius":568543281.0,
+        "rotation":"\n  80.41 days\n ",
+        "age":"\n  2.03 billion years\n ",
+        "distance":4700068.6600000001,
+        "absolute-magnitude":8.89
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 1708\n ",
+        "constellation":"\n  \u0411\u043b\u0438\u0437\u043d\u0435\u0446\u044b\n ",
+        "spectral-class":"\n  I6D\n ",
+        "radius":609315705.0,
+        "rotation":"\n  282.14 days\n ",
+        "age":"\n  5.38 billion years\n ",
+        "distance":6138844.75,
+        "absolute-magnitude":5.68
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 1897\n ",
+        "constellation":"\n  \u0412\u0435\u0441\u044b\n ",
+        "spectral-class":"\n  T4I\n ",
+        "radius":471772307.0,
+        "rotation":"\n  324.27 days\n ",
+        "age":"\n  4.04 billion years\n ",
+        "distance":5930788.2699999996,
+        "absolute-magnitude":2.88
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 2207\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  O5A\n ",
+        "radius":110525216.0,
+        "rotation":"\n  822.77 days\n ",
+        "age":"\n  3.38 billion years\n ",
+        "distance":5254077.2599999998,
+        "absolute-magnitude":1.0
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 3503\n ",
+        "constellation":"\n  \u041b\u0435\u0432\n ",
+        "spectral-class":"\n  A0B\n ",
+        "radius":168968870.0,
+        "rotation":"\n  277.51 days\n ",
+        "age":"\n  1.07 billion years\n ",
+        "distance":6092018.3200000003,
+        "absolute-magnitude":1.76
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 3843\n ",
+        "constellation":"\n  \u0421\u043a\u043e\u0440\u043f\u0438\u043e\u043d\n ",
+        "spectral-class":"\n  A6W\n ",
+        "radius":573978729.0,
+        "rotation":"\n  976.36 days\n ",
+        "age":"\n  1.97 billion years\n ",
+        "distance":8118781.2599999998,
+        "absolute-magnitude":3.33
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 5057\n ",
+        "constellation":"\n  \u0422\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  Y6O\n ",
+        "radius":990216934.0,
+        "rotation":"\n  921.45 days\n ",
+        "age":"\n  2.7 billion years\n ",
+        "distance":6509714.9100000001,
+        "absolute-magnitude":1.71
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 5286\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  T0P\n ",
+        "radius":740424965.0,
+        "rotation":"\n  465.26 days\n ",
+        "age":"\n  5.95 billion years\n ",
+        "distance":7684602.6399999997,
+        "absolute-magnitude":1.86
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 5574\n ",
+        "constellation":"\n  \u0411\u043b\u0438\u0437\u043d\u0435\u0446\u044b\n ",
+        "spectral-class":"\n  D2C\n ",
+        "radius":368486374.0,
+        "rotation":"\n  33.44 days\n ",
+        "age":"\n  5.05 billion years\n ",
+        "distance":2964245.9100000001,
+        "absolute-magnitude":2.97
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 6665\n ",
+        "constellation":"\n  \u041e\u0432\u0435\u043d\n ",
+        "spectral-class":"\n  A2M\n ",
+        "radius":998500847.0,
+        "rotation":"\n  997.23 days\n ",
+        "age":"\n  0.61 billion years\n ",
+        "distance":5642942.1100000003,
+        "absolute-magnitude":6.01
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 6801\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  M1Z\n ",
+        "radius":903164779.0,
+        "rotation":"\n  766.01 days\n ",
+        "age":"\n  3.09 billion years\n ",
+        "distance":4351383.5800000001,
+        "absolute-magnitude":7.12
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 7055\n ",
+        "constellation":"\n  \u041a\u043e\u0437\u0435\u0440\u043e\u0433\n ",
+        "spectral-class":"\n  Y4G\n ",
+        "radius":14341890.0,
+        "rotation":"\n  804.14 days\n ",
+        "age":"\n  1.5 billion years\n ",
+        "distance":749752.84,
+        "absolute-magnitude":3.77
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 7171\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  K8Y\n ",
+        "radius":805848788.0,
+        "rotation":"\n  882.43 days\n ",
+        "age":"\n  1.77 billion years\n ",
+        "distance":771646.27,
+        "absolute-magnitude":4.23
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 7390\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  A5B\n ",
+        "radius":860942737.0,
+        "rotation":"\n  714.1 days\n ",
+        "age":"\n  3.41 billion years\n ",
+        "distance":8375605.7400000002,
+        "absolute-magnitude":7.37
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 7690\n ",
+        "constellation":"\n  \u0422\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  M3Q\n ",
+        "radius":762709289.0,
+        "rotation":"\n  35.85 days\n ",
+        "age":"\n  0.87 billion years\n ",
+        "distance":6514387.5599999996,
+        "absolute-magnitude":2.84
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 7729\n ",
+        "constellation":"\n  \u0411\u043b\u0438\u0437\u043d\u0435\u0446\u044b\n ",
+        "spectral-class":"\n  G0M\n ",
+        "radius":619527769.0,
+        "rotation":"\n  291.15 days\n ",
+        "age":"\n  2.86 billion years\n ",
+        "distance":7667131.7699999996,
+        "absolute-magnitude":4.99
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 7903\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  N3C\n ",
+        "radius":737731553.0,
+        "rotation":"\n  685.61 days\n ",
+        "age":"\n  1.57 billion years\n ",
+        "distance":4381707.5999999996,
+        "absolute-magnitude":9.52
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 8220\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  Z9T\n ",
+        "radius":559371141.0,
+        "rotation":"\n  859.4 days\n ",
+        "age":"\n  2.79 billion years\n ",
+        "distance":6918137.2300000004,
+        "absolute-magnitude":3.5
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 8334\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  S2J\n ",
+        "radius":945228067.0,
+        "rotation":"\n  277.45 days\n ",
+        "age":"\n  5.72 billion years\n ",
+        "distance":9193424.3599999994,
+        "absolute-magnitude":2.97
+    },
+    {
+        "name":"\n  \u0410\u043a\u0440\u0443\u043a\u0441 8879\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  K0E\n ",
+        "radius":54042654.0,
+        "rotation":"\n  120.35 days\n ",
+        "age":"\n  4.86 billion years\n ",
+        "distance":9382163.0199999996,
+        "absolute-magnitude":7.64
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 1326\n ",
+        "constellation":"\n  \u041e\u0432\u0435\u043d\n ",
+        "spectral-class":"\n  C2Q\n ",
+        "radius":595077647.0,
+        "rotation":"\n  525.19 days\n ",
+        "age":"\n  1.45 billion years\n ",
+        "distance":5630460.0300000003,
+        "absolute-magnitude":3.48
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 1392\n ",
+        "constellation":"\n  \u041e\u0432\u0435\u043d\n ",
+        "spectral-class":"\n  V6W\n ",
+        "radius":204721257.0,
+        "rotation":"\n  358.86 days\n ",
+        "age":"\n  5.8 billion years\n ",
+        "distance":5893561.9699999997,
+        "absolute-magnitude":6.49
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 1802\n ",
+        "constellation":"\n  \u0411\u043b\u0438\u0437\u043d\u0435\u0446\u044b\n ",
+        "spectral-class":"\n  P6Z\n ",
+        "radius":746656527.0,
+        "rotation":"\n  997.25 days\n ",
+        "age":"\n  4.87 billion years\n ",
+        "distance":4207422.5099999998,
+        "absolute-magnitude":7.78
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 2184\n ",
+        "constellation":"\n  \u0414\u0435\u0432\u0430\n ",
+        "spectral-class":"\n  X9S\n ",
+        "radius":675199168.0,
+        "rotation":"\n  966.48 days\n ",
+        "age":"\n  2.46 billion years\n ",
+        "distance":9894736.5299999993,
+        "absolute-magnitude":5.37
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 2235\n ",
+        "constellation":"\n  \u0421\u0442\u0440\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  Y9K\n ",
+        "radius":705486636.0,
+        "rotation":"\n  827.06 days\n ",
+        "age":"\n  0.81 billion years\n ",
+        "distance":7031548.2699999996,
+        "absolute-magnitude":5.62
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 2268\n ",
+        "constellation":"\n  \u0421\u0442\u0440\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  B1G\n ",
+        "radius":630386099.0,
+        "rotation":"\n  150.92 days\n ",
+        "age":"\n  1.71 billion years\n ",
+        "distance":9024516.1999999993,
+        "absolute-magnitude":4.44
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 2479\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  B8H\n ",
+        "radius":267413165.0,
+        "rotation":"\n  734.72 days\n ",
+        "age":"\n  4.59 billion years\n ",
+        "distance":2015536.74,
+        "absolute-magnitude":5.99
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 3035\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  K3J\n ",
+        "radius":60092718.0,
+        "rotation":"\n  473.74 days\n ",
+        "age":"\n  1.08 billion years\n ",
+        "distance":2052596.79,
+        "absolute-magnitude":4.01
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 3481\n ",
+        "constellation":"\n  \u041b\u0435\u0432\n ",
+        "spectral-class":"\n  D2G\n ",
+        "radius":444404476.0,
+        "rotation":"\n  978.26 days\n ",
+        "age":"\n  5.55 billion years\n ",
+        "distance":4227692.6200000001,
+        "absolute-magnitude":5.96
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 4083\n ",
+        "constellation":"\n  \u041b\u0435\u0432\n ",
+        "spectral-class":"\n  L9T\n ",
+        "radius":808092938.0,
+        "rotation":"\n  764.2 days\n ",
+        "age":"\n  4.64 billion years\n ",
+        "distance":3700270.29,
+        "absolute-magnitude":9.63
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 5211\n ",
+        "constellation":"\n  \u041b\u0435\u0432\n ",
+        "spectral-class":"\n  J3G\n ",
+        "radius":713275075.0,
+        "rotation":"\n  800.33 days\n ",
+        "age":"\n  0.63 billion years\n ",
+        "distance":1742906.25,
+        "absolute-magnitude":9.53
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 5212\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  Q3U\n ",
+        "radius":73822238.0,
+        "rotation":"\n  210.42 days\n ",
+        "age":"\n  5.34 billion years\n ",
+        "distance":5325612.8399999999,
+        "absolute-magnitude":8.22
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 5962\n ",
+        "constellation":"\n  \u0414\u0435\u0432\u0430\n ",
+        "spectral-class":"\n  F9M\n ",
+        "radius":663513474.0,
+        "rotation":"\n  779.51 days\n ",
+        "age":"\n  2.68 billion years\n ",
+        "distance":4425571.7300000004,
+        "absolute-magnitude":6.64
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 6360\n ",
+        "constellation":"\n  \u0414\u0435\u0432\u0430\n ",
+        "spectral-class":"\n  V7H\n ",
+        "radius":574849009.0,
+        "rotation":"\n  818.68 days\n ",
+        "age":"\n  4.54 billion years\n ",
+        "distance":6101548.2300000004,
+        "absolute-magnitude":3.54
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 6907\n ",
+        "constellation":"\n  \u041e\u0432\u0435\u043d\n ",
+        "spectral-class":"\n  D3D\n ",
+        "radius":36086127.0,
+        "rotation":"\n  97.61 days\n ",
+        "age":"\n  4.56 billion years\n ",
+        "distance":8504166.9700000007,
+        "absolute-magnitude":4.93
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 8346\n ",
+        "constellation":"\n  \u041a\u043e\u0437\u0435\u0440\u043e\u0433\n ",
+        "spectral-class":"\n  W3C\n ",
+        "radius":508259539.0,
+        "rotation":"\n  838.98 days\n ",
+        "age":"\n  2.71 billion years\n ",
+        "distance":5813800.1200000001,
+        "absolute-magnitude":8.89
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 8811\n ",
+        "constellation":"\n  \u0412\u0435\u0441\u044b\n ",
+        "spectral-class":"\n  S4I\n ",
+        "radius":16340039.0,
+        "rotation":"\n  289.11 days\n ",
+        "age":"\n  5.03 billion years\n ",
+        "distance":2973494.1899999999,
+        "absolute-magnitude":4.57
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 9022\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  Q0W\n ",
+        "radius":631860934.0,
+        "rotation":"\n  713.57 days\n ",
+        "age":"\n  4.09 billion years\n ",
+        "distance":5019301.4100000001,
+        "absolute-magnitude":4.94
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 9301\n ",
+        "constellation":"\n  \u0421\u0442\u0440\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  Z9C\n ",
+        "radius":866959162.0,
+        "rotation":"\n  150.78 days\n ",
+        "age":"\n  1.27 billion years\n ",
+        "distance":2692547.6699999999,
+        "absolute-magnitude":6.22
+    },
+    {
+        "name":"\n  \u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430 9738\n ",
+        "constellation":"\n  \u0412\u0435\u0441\u044b\n ",
+        "spectral-class":"\n  E5L\n ",
+        "radius":783325295.0,
+        "rotation":"\n  767.53 days\n ",
+        "age":"\n  5.92 billion years\n ",
+        "distance":3171606.1800000002,
+        "absolute-magnitude":1.93
+    },
+    {
+        "name":"\n  \u0410\u043d\u0442\u0430\u0440\u0435\u0441 1196\n ",
+        "constellation":"\n  \u0414\u0435\u0432\u0430\n ",
+        "spectral-class":"\n  N9K\n ",
+        "radius":402755614.0,
+        "rotation":"\n  764.94 days\n ",
+        "age":"\n  4.22 billion years\n ",
+        "distance":3707775.8999999999,
+        "absolute-magnitude":8.51
+    },
+    {
+        "name":"\n  \u0410\u043d\u0442\u0430\u0440\u0435\u0441 1615\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  P6D\n ",
+        "radius":580102378.0,
+        "rotation":"\n  17.67 days\n ",
+        "age":"\n  2.1 billion years\n ",
+        "distance":3191657.7400000002,
+        "absolute-magnitude":8.67
+    },
+    {
+        "name":"\n  \u0410\u043d\u0442\u0430\u0440\u0435\u0441 1941\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  V9X\n ",
+        "radius":232950695.0,
+        "rotation":"\n  497.3 days\n ",
+        "age":"\n  3.05 billion years\n ",
+        "distance":186577.32,
+        "absolute-magnitude":9.07
+    },
+    {
+        "name":"\n  \u0410\u043d\u0442\u0430\u0440\u0435\u0441 4164\n ",
+        "constellation":"\n  \u0411\u043b\u0438\u0437\u043d\u0435\u0446\u044b\n ",
+        "spectral-class":"\n  J0K\n ",
+        "radius":513568212.0,
+        "rotation":"\n  790.14 days\n ",
+        "age":"\n  4.78 billion years\n ",
+        "distance":7638990.2000000002,
+        "absolute-magnitude":8.0
+    },
+    {
+        "name":"\n  \u0410\u043d\u0442\u0430\u0440\u0435\u0441 4269\n ",
+        "constellation":"\n  \u0421\u043a\u043e\u0440\u043f\u0438\u043e\u043d\n ",
+        "spectral-class":"\n  L3U\n ",
+        "radius":470508125.0,
+        "rotation":"\n  802.98 days\n ",
+        "age":"\n  3.16 billion years\n ",
+        "distance":3410148.4500000002,
+        "absolute-magnitude":7.65
+    },
+    {
+        "name":"\n  \u0410\u043d\u0442\u0430\u0440\u0435\u0441 5048\n ",
+        "constellation":"\n  \u0414\u0435\u0432\u0430\n ",
+        "spectral-class":"\n  C3U\n ",
+        "radius":869633947.0,
+        "rotation":"\n  326.04 days\n ",
+        "age":"\n  2.61 billion years\n ",
+        "distance":6950395.1399999997,
+        "absolute-magnitude":2.4
+    },
+    {
+        "name":"\n  \u0410\u043d\u0442\u0430\u0440\u0435\u0441 5280\n ",
+        "constellation":"\n  \u0422\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  J8M\n ",
+        "radius":246141056.0,
+        "rotation":"\n  267.9 days\n ",
+        "age":"\n  3.63 billion years\n ",
+        "distance":3413639.48,
+        "absolute-magnitude":7.24
+    },
+    {
+        "name":"\n  \u0410\u043d\u0442\u0430\u0440\u0435\u0441 5981\n ",
+        "constellation":"\n  \u0421\u043a\u043e\u0440\u043f\u0438\u043e\u043d\n ",
+        "spectral-class":"\n  K3K\n ",
+        "radius":579097.0,
+        "rotation":"\n  49.24 days\n ",
+        "age":"\n  0.71 billion years\n ",
+        "distance":1277037.51,
+        "absolute-magnitude":4.1
+    },
+    {
+        "name":"\n  \u0410\u043d\u0442\u0430\u0440\u0435\u0441 7456\n ",
+        "constellation":"\n  \u0411\u043b\u0438\u0437\u043d\u0435\u0446\u044b\n ",
+        "spectral-class":"\n  O5J\n ",
+        "radius":206926358.0,
+        "rotation":"\n  293.21 days\n ",
+        "age":"\n  1.91 billion years\n ",
+        "distance":401657.5,
+        "absolute-magnitude":6.98
+    },
+    {
+        "name":"\n  \u0410\u043d\u0442\u0430\u0440\u0435\u0441 7606\n ",
+        "constellation":"\n  \u0422\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  N3E\n ",
+        "radius":917268089.0,
+        "rotation":"\n  568.49 days\n ",
+        "age":"\n  3.11 billion years\n ",
+        "distance":7452212.3700000001,
+        "absolute-magnitude":3.92
+    },
+    {
+        "name":"\n  \u0410\u043d\u0442\u0430\u0440\u0435\u0441 7898\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  V1W\n ",
+        "radius":578753271.0,
+        "rotation":"\n  491.57 days\n ",
+        "age":"\n  1.12 billion years\n ",
+        "distance":5956740.6500000004,
+        "absolute-magnitude":7.54
+    },
+    {
+        "name":"\n  \u0410\u043d\u0442\u0430\u0440\u0435\u0441 8099\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  J2Q\n ",
+        "radius":509115312.0,
+        "rotation":"\n  681.16 days\n ",
+        "age":"\n  3.98 billion years\n ",
+        "distance":5272613.5999999996,
+        "absolute-magnitude":6.09
+    },
+    {
+        "name":"\n  \u0410\u043d\u0442\u0430\u0440\u0435\u0441 8940\n ",
+        "constellation":"\n  \u041a\u043e\u0437\u0435\u0440\u043e\u0433\n ",
+        "spectral-class":"\n  U7B\n ",
+        "radius":602359149.0,
+        "rotation":"\n  839.34 days\n ",
+        "age":"\n  3.97 billion years\n ",
+        "distance":4547498.9000000004,
+        "absolute-magnitude":9.54
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 1108\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  P0G\n ",
+        "radius":412832941.0,
+        "rotation":"\n  477.76 days\n ",
+        "age":"\n  2.0 billion years\n ",
+        "distance":9647156.1699999999,
+        "absolute-magnitude":4.77
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 1478\n ",
+        "constellation":"\n  \u0412\u0435\u0441\u044b\n ",
+        "spectral-class":"\n  G4H\n ",
+        "radius":590501946.0,
+        "rotation":"\n  505.08 days\n ",
+        "age":"\n  0.44 billion years\n ",
+        "distance":1536176.76,
+        "absolute-magnitude":8.0
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 2749\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  C7X\n ",
+        "radius":490170151.0,
+        "rotation":"\n  958.42 days\n ",
+        "age":"\n  0.11 billion years\n ",
+        "distance":264469.33,
+        "absolute-magnitude":5.98
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 2930\n ",
+        "constellation":"\n  \u0422\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  D3L\n ",
+        "radius":651261011.0,
+        "rotation":"\n  340.27 days\n ",
+        "age":"\n  3.73 billion years\n ",
+        "distance":3371843.9100000001,
+        "absolute-magnitude":1.94
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 2965\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  U7N\n ",
+        "radius":398238787.0,
+        "rotation":"\n  473.76 days\n ",
+        "age":"\n  5.47 billion years\n ",
+        "distance":1340684.03,
+        "absolute-magnitude":7.04
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 3394\n ",
+        "constellation":"\n  \u0412\u0435\u0441\u044b\n ",
+        "spectral-class":"\n  G5C\n ",
+        "radius":294303591.0,
+        "rotation":"\n  359.04 days\n ",
+        "age":"\n  5.42 billion years\n ",
+        "distance":6216060.3399999999,
+        "absolute-magnitude":2.79
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 3476\n ",
+        "constellation":"\n  \u0422\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  M3X\n ",
+        "radius":898638309.0,
+        "rotation":"\n  98.66 days\n ",
+        "age":"\n  3.22 billion years\n ",
+        "distance":3538004.4199999999,
+        "absolute-magnitude":8.76
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 4247\n ",
+        "constellation":"\n  \u0421\u0442\u0440\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  M3Q\n ",
+        "radius":503153699.0,
+        "rotation":"\n  548.9 days\n ",
+        "age":"\n  4.66 billion years\n ",
+        "distance":6193767.4900000002,
+        "absolute-magnitude":6.07
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 5244\n ",
+        "constellation":"\n  \u041a\u043e\u0437\u0435\u0440\u043e\u0433\n ",
+        "spectral-class":"\n  G9S\n ",
+        "radius":834776180.0,
+        "rotation":"\n  362.95 days\n ",
+        "age":"\n  4.44 billion years\n ",
+        "distance":3544713.5800000001,
+        "absolute-magnitude":5.7
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 5261\n ",
+        "constellation":"\n  \u0421\u043a\u043e\u0440\u043f\u0438\u043e\u043d\n ",
+        "spectral-class":"\n  H3S\n ",
+        "radius":890719975.0,
+        "rotation":"\n  837.03 days\n ",
+        "age":"\n  3.38 billion years\n ",
+        "distance":4092079.3500000001,
+        "absolute-magnitude":7.46
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 5471\n ",
+        "constellation":"\n  \u0421\u043a\u043e\u0440\u043f\u0438\u043e\u043d\n ",
+        "spectral-class":"\n  C2R\n ",
+        "radius":274749633.0,
+        "rotation":"\n  139.87 days\n ",
+        "age":"\n  1.6 billion years\n ",
+        "distance":3372317.6800000002,
+        "absolute-magnitude":8.98
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 5571\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  D6B\n ",
+        "radius":964790244.0,
+        "rotation":"\n  24.7 days\n ",
+        "age":"\n  4.47 billion years\n ",
+        "distance":2082703.78,
+        "absolute-magnitude":6.58
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 6863\n ",
+        "constellation":"\n  \u0414\u0435\u0432\u0430\n ",
+        "spectral-class":"\n  Z9K\n ",
+        "radius":277537054.0,
+        "rotation":"\n  593.55 days\n ",
+        "age":"\n  2.16 billion years\n ",
+        "distance":4750720.1200000001,
+        "absolute-magnitude":3.68
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 6879\n ",
+        "constellation":"\n  \u0421\u0442\u0440\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  O2B\n ",
+        "radius":668144091.0,
+        "rotation":"\n  675.31 days\n ",
+        "age":"\n  1.28 billion years\n ",
+        "distance":1851867.0700000001,
+        "absolute-magnitude":2.92
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 8177\n ",
+        "constellation":"\n  \u0421\u043a\u043e\u0440\u043f\u0438\u043e\u043d\n ",
+        "spectral-class":"\n  T5K\n ",
+        "radius":640469482.0,
+        "rotation":"\n  861.43 days\n ",
+        "age":"\n  1.01 billion years\n ",
+        "distance":201661.92,
+        "absolute-magnitude":6.09
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 8982\n ",
+        "constellation":"\n  \u0411\u043b\u0438\u0437\u043d\u0435\u0446\u044b\n ",
+        "spectral-class":"\n  W4V\n ",
+        "radius":305643331.0,
+        "rotation":"\n  57.22 days\n ",
+        "age":"\n  0.63 billion years\n ",
+        "distance":5075508.75,
+        "absolute-magnitude":8.4
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 9063\n ",
+        "constellation":"\n  \u0422\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  K9Q\n ",
+        "radius":886558090.0,
+        "rotation":"\n  225.36 days\n ",
+        "age":"\n  3.12 billion years\n ",
+        "distance":6562730.6699999999,
+        "absolute-magnitude":1.53
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 9347\n ",
+        "constellation":"\n  \u0422\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  Z5H\n ",
+        "radius":757356218.0,
+        "rotation":"\n  846.37 days\n ",
+        "age":"\n  5.39 billion years\n ",
+        "distance":7950519.5999999996,
+        "absolute-magnitude":8.21
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 9448\n ",
+        "constellation":"\n  \u0422\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  G9I\n ",
+        "radius":804997631.0,
+        "rotation":"\n  923.86 days\n ",
+        "age":"\n  2.94 billion years\n ",
+        "distance":5215612.5899999999,
+        "absolute-magnitude":9.48
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 9524\n ",
+        "constellation":"\n  \u041e\u0432\u0435\u043d\n ",
+        "spectral-class":"\n  B1E\n ",
+        "radius":405494337.0,
+        "rotation":"\n  822.84 days\n ",
+        "age":"\n  3.26 billion years\n ",
+        "distance":2128805.7999999998,
+        "absolute-magnitude":9.7
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 9557\n ",
+        "constellation":"\n  \u0412\u0435\u0441\u044b\n ",
+        "spectral-class":"\n  S2V\n ",
+        "radius":323945169.0,
+        "rotation":"\n  821.87 days\n ",
+        "age":"\n  0.3 billion years\n ",
+        "distance":792035.61,
+        "absolute-magnitude":9.84
+    },
+    {
+        "name":"\n  \u0411\u0435\u0442\u0435\u043b\u044c\u0433\u0435\u0439\u0437\u0435 9990\n ",
+        "constellation":"\n  \u0412\u0435\u0441\u044b\n ",
+        "spectral-class":"\n  U1K\n ",
+        "radius":834148612.0,
+        "rotation":"\n  956.06 days\n ",
+        "age":"\n  0.35 billion years\n ",
+        "distance":4422079.96,
+        "absolute-magnitude":8.37
+    },
+    {
+        "name":"\n  \u0412\u0435\u0433\u0430 1260\n ",
+        "constellation":"\n  \u0421\u0442\u0440\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  B6K\n ",
+        "radius":972317183.0,
+        "rotation":"\n  573.89 days\n ",
+        "age":"\n  2.89 billion years\n ",
+        "distance":9078154.0600000005,
+        "absolute-magnitude":8.83
+    },
+    {
+        "name":"\n  \u0412\u0435\u0433\u0430 1338\n ",
+        "constellation":"\n  \u0411\u043b\u0438\u0437\u043d\u0435\u0446\u044b\n ",
+        "spectral-class":"\n  M6S\n ",
+        "radius":288173963.0,
+        "rotation":"\n  60.03 days\n ",
+        "age":"\n  1.72 billion years\n ",
+        "distance":2304778.5699999998,
+        "absolute-magnitude":5.34
+    },
+    {
+        "name":"\n  \u0412\u0435\u0433\u0430 1942\n ",
+        "constellation":"\n  \u0414\u0435\u0432\u0430\n ",
+        "spectral-class":"\n  A8J\n ",
+        "radius":890633648.0,
+        "rotation":"\n  55.46 days\n ",
+        "age":"\n  1.56 billion years\n ",
+        "distance":9872124.7599999998,
+        "absolute-magnitude":8.63
+    },
+    {
+        "name":"\n  \u0412\u0435\u0433\u0430 3372\n ",
+        "constellation":"\n  \u041a\u043e\u0437\u0435\u0440\u043e\u0433\n ",
+        "spectral-class":"\n  O2S\n ",
+        "radius":61478188.0,
+        "rotation":"\n  732.28 days\n ",
+        "age":"\n  3.76 billion years\n ",
+        "distance":8916404.8300000001,
+        "absolute-magnitude":6.93
+    },
+    {
+        "name":"\n  \u0412\u0435\u0433\u0430 5299\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  P2I\n ",
+        "radius":128505161.0,
+        "rotation":"\n  140.81 days\n ",
+        "age":"\n  2.35 billion years\n ",
+        "distance":3613724.1899999999,
+        "absolute-magnitude":7.48
+    },
+    {
+        "name":"\n  \u0412\u0435\u0433\u0430 6701\n ",
+        "constellation":"\n  \u0422\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  H7O\n ",
+        "radius":23418722.0,
+        "rotation":"\n  265.74 days\n ",
+        "age":"\n  3.25 billion years\n ",
+        "distance":938371.0600000001,
+        "absolute-magnitude":5.08
+    },
+    {
+        "name":"\n  \u0412\u0435\u0433\u0430 7418\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  A7L\n ",
+        "radius":880537677.0,
+        "rotation":"\n  65.81 days\n ",
+        "age":"\n  1.24 billion years\n ",
+        "distance":2648419.0499999998,
+        "absolute-magnitude":5.02
+    },
+    {
+        "name":"\n  \u0412\u0435\u0433\u0430 8340\n ",
+        "constellation":"\n  \u0411\u043b\u0438\u0437\u043d\u0435\u0446\u044b\n ",
+        "spectral-class":"\n  J5G\n ",
+        "radius":363960071.0,
+        "rotation":"\n  234.19 days\n ",
+        "age":"\n  2.45 billion years\n ",
+        "distance":6184314.7400000002,
+        "absolute-magnitude":3.36
+    },
+    {
+        "name":"\n  \u0412\u0435\u0433\u0430 8636\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  H7X\n ",
+        "radius":568177650.0,
+        "rotation":"\n  312.24 days\n ",
+        "age":"\n  4.35 billion years\n ",
+        "distance":8314284.8200000003,
+        "absolute-magnitude":7.69
+    },
+    {
+        "name":"\n  \u0412\u0435\u0433\u0430 8869\n ",
+        "constellation":"\n  \u041b\u0435\u0432\n ",
+        "spectral-class":"\n  K8F\n ",
+        "radius":596795456.0,
+        "rotation":"\n  6.22 days\n ",
+        "age":"\n  1.67 billion years\n ",
+        "distance":5584536.9000000004,
+        "absolute-magnitude":8.64
+    },
+    {
+        "name":"\n  \u0412\u0435\u0433\u0430 9584\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  Y8E\n ",
+        "radius":715703030.0,
+        "rotation":"\n  431.57 days\n ",
+        "age":"\n  3.36 billion years\n ",
+        "distance":3735328.9700000002,
+        "absolute-magnitude":6.8
+    },
+    {
+        "name":"\n  \u0412\u0435\u0433\u0430 9611\n ",
+        "constellation":"\n  \u0412\u0435\u0441\u044b\n ",
+        "spectral-class":"\n  W1V\n ",
+        "radius":708044725.0,
+        "rotation":"\n  274.14 days\n ",
+        "age":"\n  5.02 billion years\n ",
+        "distance":9337187.8800000008,
+        "absolute-magnitude":2.68
+    },
+    {
+        "name":"\n  \u0412\u0435\u0433\u0430 9677\n ",
+        "constellation":"\n  \u041e\u0432\u0435\u043d\n ",
+        "spectral-class":"\n  A6J\n ",
+        "radius":593236896.0,
+        "rotation":"\n  242.49 days\n ",
+        "age":"\n  4.48 billion years\n ",
+        "distance":4751374.5899999999,
+        "absolute-magnitude":7.67
+    },
+    {
+        "name":"\n  \u041a\u0430\u043d\u043e\u043f\u0443\u0441 2289\n ",
+        "constellation":"\n  \u0412\u0435\u0441\u044b\n ",
+        "spectral-class":"\n  S4O\n ",
+        "radius":841794959.0,
+        "rotation":"\n  293.47 days\n ",
+        "age":"\n  5.51 billion years\n ",
+        "distance":8257430.5199999996,
+        "absolute-magnitude":4.94
+    },
+    {
+        "name":"\n  \u041a\u0430\u043d\u043e\u043f\u0443\u0441 2890\n ",
+        "constellation":"\n  \u0421\u0442\u0440\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  O3H\n ",
+        "radius":259024262.0,
+        "rotation":"\n  567.74 days\n ",
+        "age":"\n  1.35 billion years\n ",
+        "distance":5381893.2000000002,
+        "absolute-magnitude":4.37
+    },
+    {
+        "name":"\n  \u041a\u0430\u043d\u043e\u043f\u0443\u0441 2920\n ",
+        "constellation":"\n  \u041e\u0432\u0435\u043d\n ",
+        "spectral-class":"\n  C6B\n ",
+        "radius":549683003.0,
+        "rotation":"\n  782.06 days\n ",
+        "age":"\n  0.37 billion years\n ",
+        "distance":9750001.7200000007,
+        "absolute-magnitude":9.02
+    },
+    {
+        "name":"\n  \u041a\u0430\u043d\u043e\u043f\u0443\u0441 2952\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  V8S\n ",
+        "radius":849237826.0,
+        "rotation":"\n  429.84 days\n ",
+        "age":"\n  2.46 billion years\n ",
+        "distance":1427533.9199999999,
+        "absolute-magnitude":5.64
+    },
+    {
+        "name":"\n  \u041a\u0430\u043d\u043e\u043f\u0443\u0441 3720\n ",
+        "constellation":"\n  \u0421\u043a\u043e\u0440\u043f\u0438\u043e\u043d\n ",
+        "spectral-class":"\n  N3T\n ",
+        "radius":891664657.0,
+        "rotation":"\n  949.94 days\n ",
+        "age":"\n  2.86 billion years\n ",
+        "distance":7284083.4100000001,
+        "absolute-magnitude":2.79
+    },
+    {
+        "name":"\n  \u041a\u0430\u043d\u043e\u043f\u0443\u0441 3732\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  P5B\n ",
+        "radius":635953648.0,
+        "rotation":"\n  81.45 days\n ",
+        "age":"\n  2.58 billion years\n ",
+        "distance":3679305.1000000001,
+        "absolute-magnitude":3.42
+    },
+    {
+        "name":"\n  \u041a\u0430\u043d\u043e\u043f\u0443\u0441 4475\n ",
+        "constellation":"\n  \u0412\u0435\u0441\u044b\n ",
+        "spectral-class":"\n  B1W\n ",
+        "radius":141088105.0,
+        "rotation":"\n  894.68 days\n ",
+        "age":"\n  0.13 billion years\n ",
+        "distance":38968.42,
+        "absolute-magnitude":5.22
+    },
+    {
+        "name":"\n  \u041a\u0430\u043d\u043e\u043f\u0443\u0441 5091\n ",
+        "constellation":"\n  \u0421\u043a\u043e\u0440\u043f\u0438\u043e\u043d\n ",
+        "spectral-class":"\n  B4M\n ",
+        "radius":480650942.0,
+        "rotation":"\n  454.09 days\n ",
+        "age":"\n  0.52 billion years\n ",
+        "distance":5661105.1299999999,
+        "absolute-magnitude":5.91
+    },
+    {
+        "name":"\n  \u041a\u0430\u043d\u043e\u043f\u0443\u0441 5099\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  Y9B\n ",
+        "radius":289803087.0,
+        "rotation":"\n  174.2 days\n ",
+        "age":"\n  4.24 billion years\n ",
+        "distance":4331220.0800000001,
+        "absolute-magnitude":2.05
+    },
+    {
+        "name":"\n  \u041a\u0430\u043d\u043e\u043f\u0443\u0441 5226\n ",
+        "constellation":"\n  \u0414\u0435\u0432\u0430\n ",
+        "spectral-class":"\n  O5T\n ",
+        "radius":680997917.0,
+        "rotation":"\n  137.76 days\n ",
+        "age":"\n  4.71 billion years\n ",
+        "distance":7777938.8700000001,
+        "absolute-magnitude":6.84
+    },
+    {
+        "name":"\n  \u041a\u0430\u043d\u043e\u043f\u0443\u0441 5568\n ",
+        "constellation":"\n  \u0422\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  J8F\n ",
+        "radius":271771852.0,
+        "rotation":"\n  400.79 days\n ",
+        "age":"\n  3.18 billion years\n ",
+        "distance":1231544.1599999999,
+        "absolute-magnitude":6.73
+    },
+    {
+        "name":"\n  \u041a\u0430\u043d\u043e\u043f\u0443\u0441 5697\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  U6V\n ",
+        "radius":59452150.0,
+        "rotation":"\n  943.19 days\n ",
+        "age":"\n  4.92 billion years\n ",
+        "distance":238671.19,
+        "absolute-magnitude":7.73
+    },
+    {
+        "name":"\n  \u041a\u0430\u043d\u043e\u043f\u0443\u0441 6512\n ",
+        "constellation":"\n  \u0412\u0435\u0441\u044b\n ",
+        "spectral-class":"\n  I4T\n ",
+        "radius":578550216.0,
+        "rotation":"\n  868.59 days\n ",
+        "age":"\n  0.23 billion years\n ",
+        "distance":6187111.9100000001,
+        "absolute-magnitude":7.45
+    },
+    {
+        "name":"\n  \u041a\u0430\u043d\u043e\u043f\u0443\u0441 6989\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  S7B\n ",
+        "radius":330016936.0,
+        "rotation":"\n  18.32 days\n ",
+        "age":"\n  1.89 billion years\n ",
+        "distance":9241668.5399999991,
+        "absolute-magnitude":1.47
+    },
+    {
+        "name":"\n  \u041a\u0430\u043d\u043e\u043f\u0443\u0441 7757\n ",
+        "constellation":"\n  \u0422\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  T7J\n ",
+        "radius":386971365.0,
+        "rotation":"\n  209.86 days\n ",
+        "age":"\n  0.19 billion years\n ",
+        "distance":8841121.3000000007,
+        "absolute-magnitude":7.58
+    },
+    {
+        "name":"\n  \u041a\u0430\u043d\u043e\u043f\u0443\u0441 8287\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  X5R\n ",
+        "radius":562719665.0,
+        "rotation":"\n  833.07 days\n ",
+        "age":"\n  2.87 billion years\n ",
+        "distance":587771.09,
+        "absolute-magnitude":2.83
+    },
+    {
+        "name":"\n  \u041a\u0430\u043d\u043e\u043f\u0443\u0441 8296\n ",
+        "constellation":"\n  \u041e\u0432\u0435\u043d\n ",
+        "spectral-class":"\n  A8T\n ",
+        "radius":349941146.0,
+        "rotation":"\n  839.25 days\n ",
+        "age":"\n  4.57 billion years\n ",
+        "distance":1562087.8700000001,
+        "absolute-magnitude":5.8
+    },
+    {
+        "name":"\n  \u041a\u0430\u043d\u043e\u043f\u0443\u0441 8495\n ",
+        "constellation":"\n  \u0414\u0435\u0432\u0430\n ",
+        "spectral-class":"\n  N1I\n ",
+        "radius":572329154.0,
+        "rotation":"\n  863.22 days\n ",
+        "age":"\n  1.41 billion years\n ",
+        "distance":86907.24,
+        "absolute-magnitude":9.21
+    },
+    {
+        "name":"\n  \u041f\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430 1012\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  H8R\n ",
+        "radius":880775624.0,
+        "rotation":"\n  435.94 days\n ",
+        "age":"\n  4.87 billion years\n ",
+        "distance":2028409.6100000001,
+        "absolute-magnitude":4.0
+    },
+    {
+        "name":"\n  \u041f\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430 1212\n ",
+        "constellation":"\n  \u0412\u0435\u0441\u044b\n ",
+        "spectral-class":"\n  R8P\n ",
+        "radius":825632992.0,
+        "rotation":"\n  692.03 days\n ",
+        "age":"\n  5.65 billion years\n ",
+        "distance":2329213.29,
+        "absolute-magnitude":1.65
+    },
+    {
+        "name":"\n  \u041f\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430 1573\n ",
+        "constellation":"\n  \u0414\u0435\u0432\u0430\n ",
+        "spectral-class":"\n  A4Z\n ",
+        "radius":776778733.0,
+        "rotation":"\n  277.93 days\n ",
+        "age":"\n  5.17 billion years\n ",
+        "distance":9533400.8100000005,
+        "absolute-magnitude":3.84
+    },
+    {
+        "name":"\n  \u041f\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430 1984\n ",
+        "constellation":"\n  \u0421\u043a\u043e\u0440\u043f\u0438\u043e\u043d\n ",
+        "spectral-class":"\n  Z6K\n ",
+        "radius":56757660.0,
+        "rotation":"\n  838.56 days\n ",
+        "age":"\n  2.71 billion years\n ",
+        "distance":8243956.1500000004,
+        "absolute-magnitude":4.44
+    },
+    {
+        "name":"\n  \u041f\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430 2313\n ",
+        "constellation":"\n  \u0422\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  B6U\n ",
+        "radius":54295438.0,
+        "rotation":"\n  227.74 days\n ",
+        "age":"\n  3.9 billion years\n ",
+        "distance":3935220.8900000001,
+        "absolute-magnitude":7.13
+    },
+    {
+        "name":"\n  \u041f\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430 4076\n ",
+        "constellation":"\n  \u0421\u0442\u0440\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  N9F\n ",
+        "radius":618365918.0,
+        "rotation":"\n  363.11 days\n ",
+        "age":"\n  4.99 billion years\n ",
+        "distance":1866548.6200000001,
+        "absolute-magnitude":8.31
+    },
+    {
+        "name":"\n  \u041f\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430 4105\n ",
+        "constellation":"\n  \u0411\u043b\u0438\u0437\u043d\u0435\u0446\u044b\n ",
+        "spectral-class":"\n  U1K\n ",
+        "radius":748301563.0,
+        "rotation":"\n  974.52 days\n ",
+        "age":"\n  4.19 billion years\n ",
+        "distance":4208517.7300000004,
+        "absolute-magnitude":9.31
+    },
+    {
+        "name":"\n  \u041f\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430 4872\n ",
+        "constellation":"\n  \u0411\u043b\u0438\u0437\u043d\u0435\u0446\u044b\n ",
+        "spectral-class":"\n  P6Q\n ",
+        "radius":696042932.0,
+        "rotation":"\n  792.08 days\n ",
+        "age":"\n  5.61 billion years\n ",
+        "distance":4378195.0999999996,
+        "absolute-magnitude":1.0
+    },
+    {
+        "name":"\n  \u041f\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430 4888\n ",
+        "constellation":"\n  \u0422\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  X6S\n ",
+        "radius":578308807.0,
+        "rotation":"\n  212.21 days\n ",
+        "age":"\n  4.56 billion years\n ",
+        "distance":4681337.0899999999,
+        "absolute-magnitude":7.77
+    },
+    {
+        "name":"\n  \u041f\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430 5379\n ",
+        "constellation":"\n  \u0421\u043a\u043e\u0440\u043f\u0438\u043e\u043d\n ",
+        "spectral-class":"\n  F6X\n ",
+        "radius":360676845.0,
+        "rotation":"\n  626.6 days\n ",
+        "age":"\n  0.18 billion years\n ",
+        "distance":9550221.6199999992,
+        "absolute-magnitude":5.38
+    },
+    {
+        "name":"\n  \u041f\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430 5828\n ",
+        "constellation":"\n  \u0421\u0442\u0440\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  L3Z\n ",
+        "radius":631251981.0,
+        "rotation":"\n  213.83 days\n ",
+        "age":"\n  5.63 billion years\n ",
+        "distance":4739945.2599999998,
+        "absolute-magnitude":2.2
+    },
+    {
+        "name":"\n  \u041f\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430 6526\n ",
+        "constellation":"\n  \u041b\u0435\u0432\n ",
+        "spectral-class":"\n  B8R\n ",
+        "radius":709864235.0,
+        "rotation":"\n  686.99 days\n ",
+        "age":"\n  3.41 billion years\n ",
+        "distance":7034959.0999999996,
+        "absolute-magnitude":2.12
+    },
+    {
+        "name":"\n  \u041f\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430 7107\n ",
+        "constellation":"\n  \u041e\u0432\u0435\u043d\n ",
+        "spectral-class":"\n  J1K\n ",
+        "radius":57099180.0,
+        "rotation":"\n  190.09 days\n ",
+        "age":"\n  3.87 billion years\n ",
+        "distance":2700912.23,
+        "absolute-magnitude":3.19
+    },
+    {
+        "name":"\n  \u041f\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430 7435\n ",
+        "constellation":"\n  \u0414\u0435\u0432\u0430\n ",
+        "spectral-class":"\n  M4C\n ",
+        "radius":688070054.0,
+        "rotation":"\n  776.32 days\n ",
+        "age":"\n  3.58 billion years\n ",
+        "distance":1938824.3600000001,
+        "absolute-magnitude":6.85
+    },
+    {
+        "name":"\n  \u041f\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430 8289\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  S0M\n ",
+        "radius":10822400.0,
+        "rotation":"\n  941.78 days\n ",
+        "age":"\n  4.11 billion years\n ",
+        "distance":8121946.7400000002,
+        "absolute-magnitude":6.49
+    },
+    {
+        "name":"\n  \u041f\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430 9624\n ",
+        "constellation":"\n  \u0412\u0435\u0441\u044b\n ",
+        "spectral-class":"\n  H5J\n ",
+        "radius":373891533.0,
+        "rotation":"\n  699.23 days\n ",
+        "age":"\n  1.59 billion years\n ",
+        "distance":5981862.7000000002,
+        "absolute-magnitude":5.05
+    },
+    {
+        "name":"\n  \u0420\u0438\u0433\u0435\u043b\u044c 2066\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  Q4X\n ",
+        "radius":182015612.0,
+        "rotation":"\n  429.67 days\n ",
+        "age":"\n  4.49 billion years\n ",
+        "distance":7039618.0700000003,
+        "absolute-magnitude":7.71
+    },
+    {
+        "name":"\n  \u0420\u0438\u0433\u0435\u043b\u044c 2344\n ",
+        "constellation":"\n  \u0414\u0435\u0432\u0430\n ",
+        "spectral-class":"\n  X5A\n ",
+        "radius":391790148.0,
+        "rotation":"\n  234.22 days\n ",
+        "age":"\n  3.53 billion years\n ",
+        "distance":97931.72,
+        "absolute-magnitude":2.17
+    },
+    {
+        "name":"\n  \u0420\u0438\u0433\u0435\u043b\u044c 2793\n ",
+        "constellation":"\n  \u0421\u043a\u043e\u0440\u043f\u0438\u043e\u043d\n ",
+        "spectral-class":"\n  J6J\n ",
+        "radius":954142074.0,
+        "rotation":"\n  357.44 days\n ",
+        "age":"\n  1.91 billion years\n ",
+        "distance":5730167.7599999998,
+        "absolute-magnitude":9.53
+    },
+    {
+        "name":"\n  \u0420\u0438\u0433\u0435\u043b\u044c 3040\n ",
+        "constellation":"\n  \u041a\u043e\u0437\u0435\u0440\u043e\u0433\n ",
+        "spectral-class":"\n  Z3Z\n ",
+        "radius":756048183.0,
+        "rotation":"\n  738.9 days\n ",
+        "age":"\n  0.89 billion years\n ",
+        "distance":8087247.4199999999,
+        "absolute-magnitude":1.11
+    },
+    {
+        "name":"\n  \u0420\u0438\u0433\u0435\u043b\u044c 3384\n ",
+        "constellation":"\n  \u041a\u043e\u0437\u0435\u0440\u043e\u0433\n ",
+        "spectral-class":"\n  L9O\n ",
+        "radius":379285874.0,
+        "rotation":"\n  57.01 days\n ",
+        "age":"\n  1.54 billion years\n ",
+        "distance":830990.35,
+        "absolute-magnitude":8.09
+    },
+    {
+        "name":"\n  \u0420\u0438\u0433\u0435\u043b\u044c 3448\n ",
+        "constellation":"\n  \u0412\u0435\u0441\u044b\n ",
+        "spectral-class":"\n  V7P\n ",
+        "radius":363657626.0,
+        "rotation":"\n  655.05 days\n ",
+        "age":"\n  3.64 billion years\n ",
+        "distance":228847.54,
+        "absolute-magnitude":8.63
+    },
+    {
+        "name":"\n  \u0420\u0438\u0433\u0435\u043b\u044c 3792\n ",
+        "constellation":"\n  \u0411\u043b\u0438\u0437\u043d\u0435\u0446\u044b\n ",
+        "spectral-class":"\n  K1V\n ",
+        "radius":601333325.0,
+        "rotation":"\n  680.37 days\n ",
+        "age":"\n  2.99 billion years\n ",
+        "distance":8012182.3799999999,
+        "absolute-magnitude":7.66
+    },
+    {
+        "name":"\n  \u0420\u0438\u0433\u0435\u043b\u044c 4972\n ",
+        "constellation":"\n  \u041b\u0435\u0432\n ",
+        "spectral-class":"\n  X2S\n ",
+        "radius":315473787.0,
+        "rotation":"\n  846.6 days\n ",
+        "age":"\n  2.39 billion years\n ",
+        "distance":7984715.4299999997,
+        "absolute-magnitude":4.99
+    },
+    {
+        "name":"\n  \u0420\u0438\u0433\u0435\u043b\u044c 5192\n ",
+        "constellation":"\n  \u041e\u0432\u0435\u043d\n ",
+        "spectral-class":"\n  N3Z\n ",
+        "radius":154291318.0,
+        "rotation":"\n  152.69 days\n ",
+        "age":"\n  3.22 billion years\n ",
+        "distance":3954991.5800000001,
+        "absolute-magnitude":3.11
+    },
+    {
+        "name":"\n  \u0420\u0438\u0433\u0435\u043b\u044c 6972\n ",
+        "constellation":"\n  \u0414\u0435\u0432\u0430\n ",
+        "spectral-class":"\n  I7U\n ",
+        "radius":521503509.0,
+        "rotation":"\n  323.38 days\n ",
+        "age":"\n  1.2 billion years\n ",
+        "distance":5649376.2999999998,
+        "absolute-magnitude":9.88
+    },
+    {
+        "name":"\n  \u0420\u0438\u0433\u0435\u043b\u044c 7128\n ",
+        "constellation":"\n  \u0421\u0442\u0440\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  E0D\n ",
+        "radius":163731011.0,
+        "rotation":"\n  233.09 days\n ",
+        "age":"\n  4.25 billion years\n ",
+        "distance":65037.51,
+        "absolute-magnitude":2.81
+    },
+    {
+        "name":"\n  \u0420\u0438\u0433\u0435\u043b\u044c 7397\n ",
+        "constellation":"\n  \u041a\u043e\u0437\u0435\u0440\u043e\u0433\n ",
+        "spectral-class":"\n  S3H\n ",
+        "radius":959499068.0,
+        "rotation":"\n  563.53 days\n ",
+        "age":"\n  1.1 billion years\n ",
+        "distance":9073951.2400000002,
+        "absolute-magnitude":6.38
+    },
+    {
+        "name":"\n  \u0420\u0438\u0433\u0435\u043b\u044c 7468\n ",
+        "constellation":"\n  \u041b\u0435\u0432\n ",
+        "spectral-class":"\n  R4Y\n ",
+        "radius":585507545.0,
+        "rotation":"\n  158.56 days\n ",
+        "age":"\n  3.63 billion years\n ",
+        "distance":5326135.71,
+        "absolute-magnitude":7.0
+    },
+    {
+        "name":"\n  \u0420\u0438\u0433\u0435\u043b\u044c 7752\n ",
+        "constellation":"\n  \u041a\u043e\u0437\u0435\u0440\u043e\u0433\n ",
+        "spectral-class":"\n  D7T\n ",
+        "radius":465771538.0,
+        "rotation":"\n  914.35 days\n ",
+        "age":"\n  0.2 billion years\n ",
+        "distance":7002786.9800000004,
+        "absolute-magnitude":6.33
+    },
+    {
+        "name":"\n  \u0420\u0438\u0433\u0435\u043b\u044c 8242\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  L2M\n ",
+        "radius":686945832.0,
+        "rotation":"\n  770.5 days\n ",
+        "age":"\n  0.61 billion years\n ",
+        "distance":8724402.5899999999,
+        "absolute-magnitude":9.67
+    },
+    {
+        "name":"\n  \u0420\u0438\u0433\u0435\u043b\u044c 9167\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  O2H\n ",
+        "radius":147195131.0,
+        "rotation":"\n  803.9 days\n ",
+        "age":"\n  0.94 billion years\n ",
+        "distance":4504552.6100000003,
+        "absolute-magnitude":7.2
+    },
+    {
+        "name":"\n  \u0420\u0438\u0433\u0435\u043b\u044c 9692\n ",
+        "constellation":"\n  \u041b\u0435\u0432\n ",
+        "spectral-class":"\n  O8C\n ",
+        "radius":517696038.0,
+        "rotation":"\n  995.5 days\n ",
+        "age":"\n  0.15 billion years\n ",
+        "distance":7794050.9000000004,
+        "absolute-magnitude":3.99
+    },
+    {
+        "name":"\n  \u0421\u043e\u043b\u043d\u0446\u0435 1422\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  X3Z\n ",
+        "radius":680788622.0,
+        "rotation":"\n  839.26 days\n ",
+        "age":"\n  1.49 billion years\n ",
+        "distance":8344709.4500000002,
+        "absolute-magnitude":1.34
+    },
+    {
+        "name":"\n  \u0421\u043e\u043b\u043d\u0446\u0435 2593\n ",
+        "constellation":"\n  \u041b\u0435\u0432\n ",
+        "spectral-class":"\n  B4F\n ",
+        "radius":903099024.0,
+        "rotation":"\n  686.27 days\n ",
+        "age":"\n  5.75 billion years\n ",
+        "distance":4513663.7400000002,
+        "absolute-magnitude":6.63
+    },
+    {
+        "name":"\n  \u0421\u043e\u043b\u043d\u0446\u0435 2791\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  F6T\n ",
+        "radius":100453522.0,
+        "rotation":"\n  406.72 days\n ",
+        "age":"\n  4.87 billion years\n ",
+        "distance":7790772.1900000004,
+        "absolute-magnitude":9.57
+    },
+    {
+        "name":"\n  \u0421\u043e\u043b\u043d\u0446\u0435 3139\n ",
+        "constellation":"\n  \u041e\u0432\u0435\u043d\n ",
+        "spectral-class":"\n  D0C\n ",
+        "radius":983093519.0,
+        "rotation":"\n  843.9 days\n ",
+        "age":"\n  4.55 billion years\n ",
+        "distance":2272849.1600000001,
+        "absolute-magnitude":3.18
+    },
+    {
+        "name":"\n  \u0421\u043e\u043b\u043d\u0446\u0435 3290\n ",
+        "constellation":"\n  \u0412\u0435\u0441\u044b\n ",
+        "spectral-class":"\n  I0B\n ",
+        "radius":944004990.0,
+        "rotation":"\n  114.12 days\n ",
+        "age":"\n  5.22 billion years\n ",
+        "distance":2988528.48,
+        "absolute-magnitude":6.06
+    },
+    {
+        "name":"\n  \u0421\u043e\u043b\u043d\u0446\u0435 3530\n ",
+        "constellation":"\n  \u0421\u0442\u0440\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  G5S\n ",
+        "radius":98039850.0,
+        "rotation":"\n  666.47 days\n ",
+        "age":"\n  0.06 billion years\n ",
+        "distance":9766087.5500000007,
+        "absolute-magnitude":4.33
+    },
+    {
+        "name":"\n  \u0421\u043e\u043b\u043d\u0446\u0435 4165\n ",
+        "constellation":"\n  \u041e\u0432\u0435\u043d\n ",
+        "spectral-class":"\n  C1D\n ",
+        "radius":201424855.0,
+        "rotation":"\n  423.36 days\n ",
+        "age":"\n  1.21 billion years\n ",
+        "distance":7866694.7699999996,
+        "absolute-magnitude":7.45
+    },
+    {
+        "name":"\n  \u0421\u043e\u043b\u043d\u0446\u0435 4906\n ",
+        "constellation":"\n  \u0421\u043a\u043e\u0440\u043f\u0438\u043e\u043d\n ",
+        "spectral-class":"\n  O4W\n ",
+        "radius":843555469.0,
+        "rotation":"\n  829.31 days\n ",
+        "age":"\n  3.55 billion years\n ",
+        "distance":2055807.49,
+        "absolute-magnitude":5.98
+    },
+    {
+        "name":"\n  \u0421\u043e\u043b\u043d\u0446\u0435 5643\n ",
+        "constellation":"\n  \u0412\u0435\u0441\u044b\n ",
+        "spectral-class":"\n  N0G\n ",
+        "radius":944484171.0,
+        "rotation":"\n  265.34 days\n ",
+        "age":"\n  5.14 billion years\n ",
+        "distance":4197509.04,
+        "absolute-magnitude":5.96
+    },
+    {
+        "name":"\n  \u0421\u043e\u043b\u043d\u0446\u0435 6313\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  Q9L\n ",
+        "radius":236759155.0,
+        "rotation":"\n  381.53 days\n ",
+        "age":"\n  0.2 billion years\n ",
+        "distance":7971903.21,
+        "absolute-magnitude":1.86
+    },
+    {
+        "name":"\n  \u0421\u043e\u043b\u043d\u0446\u0435 6503\n ",
+        "constellation":"\n  \u041a\u043e\u0437\u0435\u0440\u043e\u0433\n ",
+        "spectral-class":"\n  F1K\n ",
+        "radius":401607006.0,
+        "rotation":"\n  805.97 days\n ",
+        "age":"\n  0.02 billion years\n ",
+        "distance":8699510.0700000003,
+        "absolute-magnitude":3.74
+    },
+    {
+        "name":"\n  \u0421\u043e\u043b\u043d\u0446\u0435 7011\n ",
+        "constellation":"\n  \u0422\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  T8G\n ",
+        "radius":119198917.0,
+        "rotation":"\n  317.71 days\n ",
+        "age":"\n  4.71 billion years\n ",
+        "distance":338996.13,
+        "absolute-magnitude":3.98
+    },
+    {
+        "name":"\n  \u0421\u043e\u043b\u043d\u0446\u0435 7740\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  E1H\n ",
+        "radius":177655593.0,
+        "rotation":"\n  858.23 days\n ",
+        "age":"\n  2.76 billion years\n ",
+        "distance":8082596.1100000003,
+        "absolute-magnitude":6.67
+    },
+    {
+        "name":"\n  \u0421\u043e\u043b\u043d\u0446\u0435 7747\n ",
+        "constellation":"\n  \u0414\u0435\u0432\u0430\n ",
+        "spectral-class":"\n  C1T\n ",
+        "radius":447067949.0,
+        "rotation":"\n  848.83 days\n ",
+        "age":"\n  0.75 billion years\n ",
+        "distance":7222043.3200000003,
+        "absolute-magnitude":3.97
+    },
+    {
+        "name":"\n  \u0421\u043e\u043b\u043d\u0446\u0435 7979\n ",
+        "constellation":"\n  \u0412\u0435\u0441\u044b\n ",
+        "spectral-class":"\n  X0D\n ",
+        "radius":943321662.0,
+        "rotation":"\n  602.82 days\n ",
+        "age":"\n  5.64 billion years\n ",
+        "distance":3718803.4100000001,
+        "absolute-magnitude":3.71
+    },
+    {
+        "name":"\n  \u0421\u043e\u043b\u043d\u0446\u0435 8269\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  C3J\n ",
+        "radius":830918720.0,
+        "rotation":"\n  295.17 days\n ",
+        "age":"\n  5.04 billion years\n ",
+        "distance":3988801.0099999998,
+        "absolute-magnitude":7.62
+    },
+    {
+        "name":"\n  \u0421\u043e\u043b\u043d\u0446\u0435 8537\n ",
+        "constellation":"\n  \u0421\u043a\u043e\u0440\u043f\u0438\u043e\u043d\n ",
+        "spectral-class":"\n  O1R\n ",
+        "radius":226052281.0,
+        "rotation":"\n  858.13 days\n ",
+        "age":"\n  2.37 billion years\n ",
+        "distance":4022652.1200000001,
+        "absolute-magnitude":1.18
+    },
+    {
+        "name":"\n  \u0421\u043e\u043b\u043d\u0446\u0435 9248\n ",
+        "constellation":"\n  \u0411\u043b\u0438\u0437\u043d\u0435\u0446\u044b\n ",
+        "spectral-class":"\n  M6U\n ",
+        "radius":231691606.0,
+        "rotation":"\n  141.92 days\n ",
+        "age":"\n  2.96 billion years\n ",
+        "distance":9377815.1400000006,
+        "absolute-magnitude":1.53
+    },
+    {
+        "name":"\n  \u0421\u043e\u043b\u043d\u0446\u0435 9832\n ",
+        "constellation":"\n  \u041b\u0435\u0432\n ",
+        "spectral-class":"\n  V1O\n ",
+        "radius":383238199.0,
+        "rotation":"\n  367.72 days\n ",
+        "age":"\n  4.25 billion years\n ",
+        "distance":7405820.5,
+        "absolute-magnitude":6.65
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u0445\u0430\u0443\u0442 1050\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  J6S\n ",
+        "radius":416916514.0,
+        "rotation":"\n  651.75 days\n ",
+        "age":"\n  1.38 billion years\n ",
+        "distance":6096826.6799999997,
+        "absolute-magnitude":5.81
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u0445\u0430\u0443\u0442 1552\n ",
+        "constellation":"\n  \u0421\u0442\u0440\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  K7K\n ",
+        "radius":483783820.0,
+        "rotation":"\n  181.97 days\n ",
+        "age":"\n  5.94 billion years\n ",
+        "distance":1976401.3999999999,
+        "absolute-magnitude":5.61
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u0445\u0430\u0443\u0442 3756\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  F3Z\n ",
+        "radius":439041513.0,
+        "rotation":"\n  847.32 days\n ",
+        "age":"\n  1.25 billion years\n ",
+        "distance":3394060.5800000001,
+        "absolute-magnitude":2.77
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u0445\u0430\u0443\u0442 4576\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  N1H\n ",
+        "radius":416483397.0,
+        "rotation":"\n  906.78 days\n ",
+        "age":"\n  1.96 billion years\n ",
+        "distance":4845186.8200000003,
+        "absolute-magnitude":8.68
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u0445\u0430\u0443\u0442 5262\n ",
+        "constellation":"\n  \u041e\u0432\u0435\u043d\n ",
+        "spectral-class":"\n  U0H\n ",
+        "radius":413396738.0,
+        "rotation":"\n  991.43 days\n ",
+        "age":"\n  4.55 billion years\n ",
+        "distance":3199427.23,
+        "absolute-magnitude":2.65
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u0445\u0430\u0443\u0442 6422\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  Z5K\n ",
+        "radius":253107735.0,
+        "rotation":"\n  550.32 days\n ",
+        "age":"\n  4.33 billion years\n ",
+        "distance":1810466.3899999999,
+        "absolute-magnitude":6.9
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u0445\u0430\u0443\u0442 6444\n ",
+        "constellation":"\n  \u0421\u0442\u0440\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  A6D\n ",
+        "radius":160080186.0,
+        "rotation":"\n  847.92 days\n ",
+        "age":"\n  5.5 billion years\n ",
+        "distance":4989782.9100000001,
+        "absolute-magnitude":3.55
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u0445\u0430\u0443\u0442 6465\n ",
+        "constellation":"\n  \u0421\u0442\u0440\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  T0H\n ",
+        "radius":64074590.0,
+        "rotation":"\n  473.55 days\n ",
+        "age":"\n  2.01 billion years\n ",
+        "distance":627778.04,
+        "absolute-magnitude":8.59
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u0445\u0430\u0443\u0442 6691\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  B4Z\n ",
+        "radius":691358839.0,
+        "rotation":"\n  942.04 days\n ",
+        "age":"\n  3.44 billion years\n ",
+        "distance":6548853.0300000003,
+        "absolute-magnitude":1.56
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u0445\u0430\u0443\u0442 6698\n ",
+        "constellation":"\n  \u041a\u043e\u0437\u0435\u0440\u043e\u0433\n ",
+        "spectral-class":"\n  A5W\n ",
+        "radius":925861726.0,
+        "rotation":"\n  55.89 days\n ",
+        "age":"\n  4.4 billion years\n ",
+        "distance":4259099.8899999997,
+        "absolute-magnitude":9.17
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u0445\u0430\u0443\u0442 7095\n ",
+        "constellation":"\n  \u041b\u0435\u0432\n ",
+        "spectral-class":"\n  X6Y\n ",
+        "radius":162686064.0,
+        "rotation":"\n  114.25 days\n ",
+        "age":"\n  1.46 billion years\n ",
+        "distance":1975806.3,
+        "absolute-magnitude":8.76
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u0445\u0430\u0443\u0442 7465\n ",
+        "constellation":"\n  \u041a\u043e\u0437\u0435\u0440\u043e\u0433\n ",
+        "spectral-class":"\n  V5P\n ",
+        "radius":87441761.0,
+        "rotation":"\n  860.24 days\n ",
+        "age":"\n  0.6 billion years\n ",
+        "distance":1372006.47,
+        "absolute-magnitude":4.73
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u0445\u0430\u0443\u0442 8752\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  C1S\n ",
+        "radius":514117215.0,
+        "rotation":"\n  539.11 days\n ",
+        "age":"\n  5.04 billion years\n ",
+        "distance":1472237.1100000001,
+        "absolute-magnitude":1.71
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u0445\u0430\u0443\u0442 8778\n ",
+        "constellation":"\n  \u0411\u043b\u0438\u0437\u043d\u0435\u0446\u044b\n ",
+        "spectral-class":"\n  Q4K\n ",
+        "radius":660697098.0,
+        "rotation":"\n  296.59 days\n ",
+        "age":"\n  2.92 billion years\n ",
+        "distance":1257365.1899999999,
+        "absolute-magnitude":8.97
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u0445\u0430\u0443\u0442 9517\n ",
+        "constellation":"\n  \u0414\u0435\u0432\u0430\n ",
+        "spectral-class":"\n  Q8P\n ",
+        "radius":12569127.0,
+        "rotation":"\n  484.56 days\n ",
+        "age":"\n  0.39 billion years\n ",
+        "distance":9123700.4499999993,
+        "absolute-magnitude":5.52
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u0445\u0430\u0443\u0442 9864\n ",
+        "constellation":"\n  \u041a\u043e\u0437\u0435\u0440\u043e\u0433\n ",
+        "spectral-class":"\n  E4N\n ",
+        "radius":747887185.0,
+        "rotation":"\n  171.62 days\n ",
+        "age":"\n  0.56 billion years\n ",
+        "distance":5810423.4000000004,
+        "absolute-magnitude":9.06
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u0445\u0430\u0443\u0442 9982\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  G9W\n ",
+        "radius":528088016.0,
+        "rotation":"\n  306.91 days\n ",
+        "age":"\n  4.9 billion years\n ",
+        "distance":8373705.7300000004,
+        "absolute-magnitude":5.25
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 1495\n ",
+        "constellation":"\n  \u041a\u043e\u0437\u0435\u0440\u043e\u0433\n ",
+        "spectral-class":"\n  O1K\n ",
+        "radius":27283692.0,
+        "rotation":"\n  876.23 days\n ",
+        "age":"\n  2.14 billion years\n ",
+        "distance":525116.63,
+        "absolute-magnitude":5.39
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 2024\n ",
+        "constellation":"\n  \u0412\u0435\u0441\u044b\n ",
+        "spectral-class":"\n  X4C\n ",
+        "radius":446070595.0,
+        "rotation":"\n  484.21 days\n ",
+        "age":"\n  5.57 billion years\n ",
+        "distance":8820468.3900000006,
+        "absolute-magnitude":7.63
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 2441\n ",
+        "constellation":"\n  \u0414\u0435\u0432\u0430\n ",
+        "spectral-class":"\n  A4D\n ",
+        "radius":910428240.0,
+        "rotation":"\n  908.61 days\n ",
+        "age":"\n  3.37 billion years\n ",
+        "distance":7162049.5300000003,
+        "absolute-magnitude":4.66
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 2557\n ",
+        "constellation":"\n  \u0421\u043a\u043e\u0440\u043f\u0438\u043e\u043d\n ",
+        "spectral-class":"\n  D5Q\n ",
+        "radius":793854113.0,
+        "rotation":"\n  627.63 days\n ",
+        "age":"\n  0.64 billion years\n ",
+        "distance":3071363.1099999999,
+        "absolute-magnitude":7.7
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 2624\n ",
+        "constellation":"\n  \u0412\u0435\u0441\u044b\n ",
+        "spectral-class":"\n  J5G\n ",
+        "radius":426663777.0,
+        "rotation":"\n  583.94 days\n ",
+        "age":"\n  2.52 billion years\n ",
+        "distance":1549461.1499999999,
+        "absolute-magnitude":5.42
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 3142\n ",
+        "constellation":"\n  \u041a\u043e\u0437\u0435\u0440\u043e\u0433\n ",
+        "spectral-class":"\n  F5F\n ",
+        "radius":274149201.0,
+        "rotation":"\n  970.0 days\n ",
+        "age":"\n  5.24 billion years\n ",
+        "distance":3956462.5899999999,
+        "absolute-magnitude":1.49
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 3686\n ",
+        "constellation":"\n  \u0421\u043a\u043e\u0440\u043f\u0438\u043e\u043d\n ",
+        "spectral-class":"\n  M0C\n ",
+        "radius":349030082.0,
+        "rotation":"\n  368.18 days\n ",
+        "age":"\n  1.01 billion years\n ",
+        "distance":5356568.4900000002,
+        "absolute-magnitude":9.27
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 3742\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  A0Y\n ",
+        "radius":716102833.0,
+        "rotation":"\n  313.32 days\n ",
+        "age":"\n  5.78 billion years\n ",
+        "distance":5618802.2599999998,
+        "absolute-magnitude":6.35
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 3822\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  B3J\n ",
+        "radius":749824725.0,
+        "rotation":"\n  825.01 days\n ",
+        "age":"\n  3.02 billion years\n ",
+        "distance":9565381.5500000007,
+        "absolute-magnitude":3.37
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 4351\n ",
+        "constellation":"\n  \u0411\u043b\u0438\u0437\u043d\u0435\u0446\u044b\n ",
+        "spectral-class":"\n  E1T\n ",
+        "radius":405360164.0,
+        "rotation":"\n  683.28 days\n ",
+        "age":"\n  2.77 billion years\n ",
+        "distance":6693910.7300000004,
+        "absolute-magnitude":6.19
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 4819\n ",
+        "constellation":"\n  \u0414\u0435\u0432\u0430\n ",
+        "spectral-class":"\n  Y4M\n ",
+        "radius":693160608.0,
+        "rotation":"\n  121.82 days\n ",
+        "age":"\n  2.78 billion years\n ",
+        "distance":1273622.8300000001,
+        "absolute-magnitude":7.16
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 5518\n ",
+        "constellation":"\n  \u041e\u0432\u0435\u043d\n ",
+        "spectral-class":"\n  O9U\n ",
+        "radius":118302676.0,
+        "rotation":"\n  417.18 days\n ",
+        "age":"\n  0.69 billion years\n ",
+        "distance":7181918.21,
+        "absolute-magnitude":9.76
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 6513\n ",
+        "constellation":"\n  \u0421\u0442\u0440\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  P2I\n ",
+        "radius":539991573.0,
+        "rotation":"\n  190.07 days\n ",
+        "age":"\n  3.63 billion years\n ",
+        "distance":19532.49,
+        "absolute-magnitude":6.57
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 6582\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  I3E\n ",
+        "radius":778025067.0,
+        "rotation":"\n  253.24 days\n ",
+        "age":"\n  4.03 billion years\n ",
+        "distance":9800756.5500000007,
+        "absolute-magnitude":2.6
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 7354\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  O8A\n ",
+        "radius":421938422.0,
+        "rotation":"\n  431.74 days\n ",
+        "age":"\n  1.91 billion years\n ",
+        "distance":8219930.5899999999,
+        "absolute-magnitude":2.99
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 7375\n ",
+        "constellation":"\n  \u041e\u0432\u0435\u043d\n ",
+        "spectral-class":"\n  T5C\n ",
+        "radius":466365754.0,
+        "rotation":"\n  437.31 days\n ",
+        "age":"\n  2.59 billion years\n ",
+        "distance":3849041.6299999999,
+        "absolute-magnitude":4.66
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 8004\n ",
+        "constellation":"\n  \u0421\u0442\u0440\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  K4C\n ",
+        "radius":407401430.0,
+        "rotation":"\n  958.83 days\n ",
+        "age":"\n  2.51 billion years\n ",
+        "distance":4879115.54,
+        "absolute-magnitude":6.71
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 8468\n ",
+        "constellation":"\n  \u041e\u0432\u0435\u043d\n ",
+        "spectral-class":"\n  E8O\n ",
+        "radius":512650738.0,
+        "rotation":"\n  541.49 days\n ",
+        "age":"\n  1.78 billion years\n ",
+        "distance":3719309.7799999998,
+        "absolute-magnitude":7.03
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 8795\n ",
+        "constellation":"\n  \u041e\u0432\u0435\u043d\n ",
+        "spectral-class":"\n  Q0T\n ",
+        "radius":97487015.0,
+        "rotation":"\n  532.18 days\n ",
+        "age":"\n  5.07 billion years\n ",
+        "distance":8150494.4199999999,
+        "absolute-magnitude":7.32
+    },
+    {
+        "name":"\n  \u0424\u043e\u043c\u0430\u043b\u044c\u0433\u0430\u0443\u0442 9429\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  N7V\n ",
+        "radius":974940043.0,
+        "rotation":"\n  331.1 days\n ",
+        "age":"\n  4.48 billion years\n ",
+        "distance":809615.99,
+        "absolute-magnitude":5.87
+    },
+    {
+        "name":"\n  \u0425\u0430\u0434\u0430\u0440 1067\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  D2S\n ",
+        "radius":717774582.0,
+        "rotation":"\n  939.2 days\n ",
+        "age":"\n  3.79 billion years\n ",
+        "distance":2305223.3199999998,
+        "absolute-magnitude":4.28
+    },
+    {
+        "name":"\n  \u0425\u0430\u0434\u0430\u0440 1616\n ",
+        "constellation":"\n  \u0422\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  A6B\n ",
+        "radius":366026706.0,
+        "rotation":"\n  608.97 days\n ",
+        "age":"\n  0.07 billion years\n ",
+        "distance":6907331.2999999998,
+        "absolute-magnitude":1.42
+    },
+    {
+        "name":"\n  \u0425\u0430\u0434\u0430\u0440 2059\n ",
+        "constellation":"\n  \u0420\u044b\u0431\u044b\n ",
+        "spectral-class":"\n  H0U\n ",
+        "radius":438041269.0,
+        "rotation":"\n  117.59 days\n ",
+        "age":"\n  1.03 billion years\n ",
+        "distance":4077777.8100000001,
+        "absolute-magnitude":7.5
+    },
+    {
+        "name":"\n  \u0425\u0430\u0434\u0430\u0440 2109\n ",
+        "constellation":"\n  \u0411\u043b\u0438\u0437\u043d\u0435\u0446\u044b\n ",
+        "spectral-class":"\n  G6Z\n ",
+        "radius":638343920.0,
+        "rotation":"\n  420.64 days\n ",
+        "age":"\n  4.46 billion years\n ",
+        "distance":9399505.9000000004,
+        "absolute-magnitude":8.85
+    },
+    {
+        "name":"\n  \u0425\u0430\u0434\u0430\u0440 3231\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  A2T\n ",
+        "radius":297407417.0,
+        "rotation":"\n  141.56 days\n ",
+        "age":"\n  2.38 billion years\n ",
+        "distance":5071182.04,
+        "absolute-magnitude":8.03
+    },
+    {
+        "name":"\n  \u0425\u0430\u0434\u0430\u0440 3263\n ",
+        "constellation":"\n  \u041e\u0432\u0435\u043d\n ",
+        "spectral-class":"\n  U8M\n ",
+        "radius":931485928.0,
+        "rotation":"\n  151.12 days\n ",
+        "age":"\n  4.55 billion years\n ",
+        "distance":5307348.2199999997,
+        "absolute-magnitude":5.18
+    },
+    {
+        "name":"\n  \u0425\u0430\u0434\u0430\u0440 3487\n ",
+        "constellation":"\n  \u0421\u0442\u0440\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  K0M\n ",
+        "radius":247078377.0,
+        "rotation":"\n  1.86 days\n ",
+        "age":"\n  5.41 billion years\n ",
+        "distance":323033.71,
+        "absolute-magnitude":2.95
+    },
+    {
+        "name":"\n  \u0425\u0430\u0434\u0430\u0440 4600\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  G6K\n ",
+        "radius":921075876.0,
+        "rotation":"\n  782.51 days\n ",
+        "age":"\n  5.17 billion years\n ",
+        "distance":4319437.8799999999,
+        "absolute-magnitude":9.89
+    },
+    {
+        "name":"\n  \u0425\u0430\u0434\u0430\u0440 4627\n ",
+        "constellation":"\n  \u0421\u043a\u043e\u0440\u043f\u0438\u043e\u043d\n ",
+        "spectral-class":"\n  N4N\n ",
+        "radius":759793809.0,
+        "rotation":"\n  692.03 days\n ",
+        "age":"\n  4.58 billion years\n ",
+        "distance":9999465.3100000005,
+        "absolute-magnitude":3.12
+    },
+    {
+        "name":"\n  \u0425\u0430\u0434\u0430\u0440 4811\n ",
+        "constellation":"\n  \u041e\u0432\u0435\u043d\n ",
+        "spectral-class":"\n  Y1N\n ",
+        "radius":184494823.0,
+        "rotation":"\n  718.69 days\n ",
+        "age":"\n  2.02 billion years\n ",
+        "distance":3869898.0600000001,
+        "absolute-magnitude":1.86
+    },
+    {
+        "name":"\n  \u0425\u0430\u0434\u0430\u0440 5166\n ",
+        "constellation":"\n  \u0414\u0435\u0432\u0430\n ",
+        "spectral-class":"\n  Z9P\n ",
+        "radius":719671205.0,
+        "rotation":"\n  136.35 days\n ",
+        "age":"\n  2.31 billion years\n ",
+        "distance":4460741.8099999996,
+        "absolute-magnitude":8.24
+    },
+    {
+        "name":"\n  \u0425\u0430\u0434\u0430\u0440 7430\n ",
+        "constellation":"\n  \u0412\u043e\u0434\u043e\u043b\u0435\u0439\n ",
+        "spectral-class":"\n  M7X\n ",
+        "radius":421914497.0,
+        "rotation":"\n  967.35 days\n ",
+        "age":"\n  5.87 billion years\n ",
+        "distance":1079071.55,
+        "absolute-magnitude":5.88
+    },
+    {
+        "name":"\n  \u0425\u0430\u0434\u0430\u0440 7462\n ",
+        "constellation":"\n  \u0422\u0435\u043b\u0435\u0446\n ",
+        "spectral-class":"\n  W9U\n ",
+        "radius":512567642.0,
+        "rotation":"\n  545.92 days\n ",
+        "age":"\n  0.19 billion years\n ",
+        "distance":8093818.2599999998,
+        "absolute-magnitude":3.93
+    },
+    {
+        "name":"\n  \u0425\u0430\u0434\u0430\u0440 7574\n ",
+        "constellation":"\n  \u0420\u0430\u043a\n ",
+        "spectral-class":"\n  Z4W\n ",
+        "radius":602677746.0,
+        "rotation":"\n  253.27 days\n ",
+        "age":"\n  0.3 billion years\n ",
+        "distance":3437040.29,
+        "absolute-magnitude":4.4
+    }
+]

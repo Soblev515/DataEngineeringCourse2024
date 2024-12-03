@@ -1,0 +1,572 @@
+[
+    {
+        "city": "Скопье",
+        "building": null,
+        "address": null,
+        "floors": 9,
+        "year": 0,
+        "parking": "нет",
+        "rating": 1.7,
+        "views": 26083
+    },
+    {
+        "city": "Куэнка",
+        "building": null,
+        "address": null,
+        "floors": 7,
+        "year": 0,
+        "parking": "есть",
+        "rating": 3.9,
+        "views": 76388
+    },
+    {
+        "city": "Авилес",
+        "building": null,
+        "address": null,
+        "floors": 5,
+        "year": 0,
+        "parking": "есть",
+        "rating": 1.7,
+        "views": 75237
+    },
+    {
+        "city": "Виго",
+        "building": null,
+        "address": null,
+        "floors": 6,
+        "year": 0,
+        "parking": "есть",
+        "rating": 0.3,
+        "views": 30180
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": "София",
+        "building": null,
+        "address": null,
+        "floors": 10,
+        "year": 0,
+        "parking": "нет",
+        "rating": 3.7,
+        "views": 54150
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": "Киев",
+        "building": null,
+        "address": null,
+        "floors": 1,
+        "year": 0,
+        "parking": "есть",
+        "rating": 2.7,
+        "views": 24459
+    },
+    {
+        "city": "Тудела",
+        "building": null,
+        "address": null,
+        "floors": 9,
+        "year": 0,
+        "parking": "есть",
+        "rating": 1.5,
+        "views": 51683
+    },
+    {
+        "city": "Бланес",
+        "building": null,
+        "address": null,
+        "floors": 1,
+        "year": 0,
+        "parking": "есть",
+        "rating": 0.8,
+        "views": 6209
+    },
+    {
+        "city": "Прага",
+        "building": null,
+        "address": null,
+        "floors": 6,
+        "year": 0,
+        "parking": "есть",
+        "rating": 3.5,
+        "views": 41719
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": "Белград",
+        "building": null,
+        "address": null,
+        "floors": 1,
+        "year": 0,
+        "parking": "нет",
+        "rating": 1.1,
+        "views": 24735
+    },
+    {
+        "city": "Касерес",
+        "building": null,
+        "address": null,
+        "floors": 5,
+        "year": 0,
+        "parking": "нет",
+        "rating": 2.5,
+        "views": 6275
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": "Сеговия",
+        "building": null,
+        "address": null,
+        "floors": 10,
+        "year": 0,
+        "parking": "нет",
+        "rating": 1.3,
+        "views": 49547
+    },
+    {
+        "city": "Прага",
+        "building": null,
+        "address": null,
+        "floors": 7,
+        "year": 0,
+        "parking": "нет",
+        "rating": 0.5,
+        "views": 77983
+    },
+    {
+        "city": "Виго",
+        "building": null,
+        "address": null,
+        "floors": 4,
+        "year": 0,
+        "parking": "нет",
+        "rating": 2.5,
+        "views": 83599
+    },
+    {
+        "city": "Лас-Росас",
+        "building": null,
+        "address": null,
+        "floors": 9,
+        "year": 0,
+        "parking": "нет",
+        "rating": 1.6,
+        "views": 40057
+    },
+    {
+        "city": "Бишкек",
+        "building": null,
+        "address": null,
+        "floors": 9,
+        "year": 0,
+        "parking": "есть",
+        "rating": 0.6,
+        "views": 43778
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": "Луго",
+        "building": null,
+        "address": null,
+        "floors": 9,
+        "year": 0,
+        "parking": "есть",
+        "rating": 0.4,
+        "views": 72999
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": "Бургос",
+        "building": null,
+        "address": null,
+        "floors": 8,
+        "year": 0,
+        "parking": "нет",
+        "rating": 3.3,
+        "views": 24522
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": "Аликанте",
+        "building": null,
+        "address": null,
+        "floors": 7,
+        "year": 0,
+        "parking": "нет",
+        "rating": 3.7,
+        "views": 79221
+    },
+    {
+        "city": "Кишинев",
+        "building": null,
+        "address": null,
+        "floors": 7,
+        "year": 0,
+        "parking": "есть",
+        "rating": 3.0,
+        "views": 76586
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": "Подгорица",
+        "building": null,
+        "address": null,
+        "floors": 4,
+        "year": 0,
+        "parking": "есть",
+        "rating": 1.4,
+        "views": 39579
+    },
+    {
+        "city": "Алькала-де-Энарес",
+        "building": null,
+        "address": null,
+        "floors": 2,
+        "year": 0,
+        "parking": "нет",
+        "rating": 1.7,
+        "views": 59788
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": "Картахена",
+        "building": null,
+        "address": null,
+        "floors": 9,
+        "year": 0,
+        "parking": "есть",
+        "rating": 4.5,
+        "views": 14015
+    },
+    {
+        "city": "Бильбао",
+        "building": null,
+        "address": null,
+        "floors": 7,
+        "year": 0,
+        "parking": "нет",
+        "rating": 0.6,
+        "views": 28791
+    },
+    {
+        "city": "Картахена",
+        "building": null,
+        "address": null,
+        "floors": 8,
+        "year": 0,
+        "parking": "есть",
+        "rating": 4.6,
+        "views": 37355
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": "Таллин",
+        "building": null,
+        "address": null,
+        "floors": 7,
+        "year": 0,
+        "parking": "нет",
+        "rating": 1.7,
+        "views": 1980
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": "Ереван",
+        "building": null,
+        "address": null,
+        "floors": 10,
+        "year": 0,
+        "parking": "есть",
+        "rating": 2.4,
+        "views": 21485
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": "Рига",
+        "building": null,
+        "address": null,
+        "floors": 4,
+        "year": 0,
+        "parking": "нет",
+        "rating": 3.0,
+        "views": 58335
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": "Вильнюс",
+        "building": null,
+        "address": null,
+        "floors": 5,
+        "year": 0,
+        "parking": "нет",
+        "rating": 2.5,
+        "views": 31813
+    },
+    {
+        "city": "Тбилиси",
+        "building": null,
+        "address": null,
+        "floors": 8,
+        "year": 0,
+        "parking": "нет",
+        "rating": 4.5,
+        "views": 61587
+    },
+    {
+        "city": "Осера",
+        "building": null,
+        "address": null,
+        "floors": 9,
+        "year": 0,
+        "parking": "нет",
+        "rating": 3.2,
+        "views": 62288
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": "Аликанте",
+        "building": null,
+        "address": null,
+        "floors": 7,
+        "year": 0,
+        "parking": "нет",
+        "rating": 2.7,
+        "views": 80315
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": "Валенсия",
+        "building": null,
+        "address": null,
+        "floors": 2,
+        "year": 0,
+        "parking": "нет",
+        "rating": 2.4,
+        "views": 99492
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    },
+    {
+        "city": null,
+        "building": null,
+        "address": null,
+        "floors": 0,
+        "year": 0,
+        "parking": null,
+        "rating": 0.0,
+        "views": 0
+    }
+]
