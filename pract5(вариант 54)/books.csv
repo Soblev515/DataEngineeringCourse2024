@@ -1,0 +1,101 @@
+id,title,author_id,genre,published_year,rating
+1,The Great Gatsby,1,Fiction,1925,4.5
+2,To Kill a Mockingbird,2,Fiction,1960,4.8
+3,1984,3,Dystopian,1949,4.7
+4,Moby Dick,4,Fiction,1851,4.2
+5,Pride and Prejudice,5,Romance,1813,4.6
+6,War and Peace,6,Historical,1869,4.4
+7,The Catcher in the Rye,7,Fiction,1951,4.0
+8,The Hobbit,8,Fantasy,1937,4.6
+9,The Alchemist,9,Adventure,1988,4.5
+10,Brave New World,3,Dystopian,1932,4.3
+11,Crime and Punishment,10,Fiction,1866,4.8
+12,The Brothers Karamazov,10,Fiction,1880,4.6
+13,The Picture of Dorian Gray,11,Fiction,1890,4.5
+14,The Grapes of Wrath,12,Fiction,1939,4.7
+15,The Old Man and the Sea,13,Fiction,1952,4.4
+16,The Catch-22,14,Fiction,1961,4.2
+17,The Road,15,Dystopian,2006,4.5
+18,The Handmaid's Tale,16,Dystopian,1985,4.6
+19,Fahrenheit 451,17,Dystopian,1953,4.3
+20,The Kite Runner,18,Fiction,2003,4.7
+21,The Fault in Our Stars,19,Romance,2012,4.4
+22,The Time Traveler's Wife,20,Romance,2003,4.5
+23,The Hunger Games,21,Dystopian,2008,4.6
+24,Harry Potter and the Sorcerer's Stone,22,Fantasy,1997,4.9
+25,The Chronicles of Narnia,23,Fantasy,1950,4.8
+26,The Lord of the Rings,24,Fantasy,1954,4.9
+27,Brave New World Revisited,3,Dystopian,1958,4.2
+28,The Bell Jar,25,Fiction,1963,4.3
+29,The Road Less Traveled,26,Non-Fiction,1978,4.5
+30,Outliers,27,Non-Fiction,2008,4.6
+31,Educated,28,Non-Fiction,2018,4.7
+32,Becoming,29,Non-Fiction,2018,4.4
+33,Sapiens: A Brief History of Humankind,30,Non-Fiction,2011,4.5
+34,The Immortal Life of Henrietta Lacks,31,Non-Fiction,2010,4.6
+35,The Power of Habit,32,Non-Fiction,2012,4.4
+36,Thinking, Fast and Slow,33,Non-Fiction,2011,4.5
+37,The Subtle Art of Not Giving a F*ck,34,Non-Fiction,2016,4.3
+38,The 7 Habits of Highly Effective People,35,Non-Fiction,1989,4.5
+39,The 48 Laws of Power,36,Non-Fiction,1998,4.6
+40,Good to Great,37,Non-Fiction,2001,4.4
+41,The Lean Startup,38,Non-Fiction,2011,4.3
+42,Rich Dad Poor Dad,39,Non-Fiction,1997,4.5
+43,The Art of War,40,Non-Fiction,5th century BC,4.6
+44,The Greatest Showman,41,Fantasy,2017,4.4
+45,The Secret Garden,42,Fiction,1911,4.3
+46,A Tale of Two Cities,43,Fiction,1859,4.5
+47,The Picture of Dorian Gray,44,Fiction,1890,4.6
+48,The Shining,45,Horror,1977,4.4
+49,The Exorcist,46,Horror,1971,4.5
+50,It,47,Horror,1986,4.6
+51,The Silence of the Lambs,48,Horror,1988,4.3
+52,The Girl with the Dragon Tattoo,49,Thriller,2005,4.5
+53,The Da Vinci Code,50,Thriller,2003,4.4
+54,Gone Girl,51,Thriller,2012,4.7
+55,The Woman in the Window,52,Thriller,2018,4.3
+56,Life of Pi,53,Fiction,2001,4.6
+57,The Fault in Our Stars,54,Romance,2012,4.5
+58,The Perks of Being a Wallflower,55,Fiction,1999,4.4
+59,The Lovely Bones,56,Fiction,2002,4.5
+60,The Night Circus,57,Fantasy,2011,4.6
+61,The Ocean at the End of the Lane,58,Fantasy,2013,4.4
+62,American Gods,59,Fantasy,2001,4.5
+63,The Martian,60,Science Fiction,2011,4.7
+64,Dune,61,Science Fiction,1965,4.8
+65,Neuromancer,62,Science Fiction,1984,4.5
+66,Foundation,63,Science Fiction,1951,4.6
+67,The Hitchhiker's Guide to the Galaxy,64,Science Fiction,1979,4.4
+68,Ender's Game,65,Science Fiction,1985,4.7
+69,Ready Player One,66,Science Fiction,2011,4.5
+70,The Wind-Up Bird Chronicle,67,Fiction,1994,4.6
+71,The Brief Wondrous Life of Oscar Wao,68,Fiction,2007,4.4
+72,The Goldfinch,69,Fiction,2013,4.5
+73,Life After Life,70,Fiction,2013,4.6
+74,The Underground Railroad,71,Fiction,2016,4.7
+75,Where the Crawdads Sing,72,Fiction,2018,4.5
+76,The Nightingale,73,Fiction,2015,4.6
+77,The Tattooist of Auschwitz,74,Fiction,2018,4.4
+78,The Book Thief,75,Fiction,2005,4.5
+79,The Light We Lost,76,Fiction,2017,4.6
+80,The Seven Husbands of Evelyn Hugo,77,Fiction,2017,4.4
+81,Anxious People,78,Fiction,2020,4.5
+82,The Invisible Life of Addie LaRue,79,Fiction,2020,4.8
+83,The Vanishing Half,80,Fiction,2020,4.6
+84,The Midnight Library,81,Fiction,2020,4.5
+85,The Guest List,82,Fiction,2020,4.4
+86,Malibu Rising,83,Fiction,2021,4.6
+87,The Chain,84,Fiction,2019,4.5
+88,The Silent Patient,85,Fiction,2019,4.4
+89,Big Little Lies,86,Fiction,2014,4.5
+90,Little Fires Everywhere,87,Fiction,2017,4.6
+91,Normal People,88,Fiction,2018,4.5
+92,The Paper Palace,89,Fiction,2021,4.4
+93,The Great Alone,90,Fiction,2018,4.5
+94,The Overstory,91,Fiction,2018,4.6
+95,The Night Watchman,92,Fiction,2020,4.5
+96,The Dutch House,93,Fiction,2019,4.4
+97,The Water Dancer,94,Fiction,2019,4.5
+98,The Immortalists,95,Fiction,2018,4.6
+99,The Light Between Oceans,96,Fiction,2012,4.5
+100,The Road to Character,97,Non-Fiction,2015,4.4
